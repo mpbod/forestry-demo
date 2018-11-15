@@ -4,6 +4,7 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
 partners:
+- "/uploads/2018/11/15/45202474_552356985206086_3560283070953160704_n.jpg"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
